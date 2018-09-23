@@ -1,6 +1,6 @@
 {
   "name": "easydocs",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "a babel pluging to generate documentation for your javascript code",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "keywords": [
     "babel"
   ],
-  "author": "Isuru Siriwardana",
+  "author": "Isuru Siriwardana & Developers",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/isurusiri/easydocs/issues"
@@ -21,5 +21,8 @@
   "homepage": "https://github.com/isurusiri/easydocs#readme",
   "dependencies": {
     "esprima": "^4.0.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3"
   }
 }
