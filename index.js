@@ -1,3 +1,7 @@
 var parser = require('flow-parser')
 
-console.log(JSON.stringify(parser.parse('/*this is a comment*/1+2', {})));
+var fileReader = require('./utils/file-reader')
+
+var code  = fileReader.readFlowSync();
+console.log(code);
+console.log(JSON.stringify(parser.parse(code, {})));
