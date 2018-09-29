@@ -21,7 +21,8 @@
   "homepage": "https://github.com/isurusiri/easydocs#readme",
   "dependencies": {
     "esprima": "^4.0.1",
-    "flow-parser": "^0.81.0"
+    "flow-parser": "^0.81.0",
+    "rxjs": "^6.3.3"
   },
   "devDependencies": {
     "@babel/cli": "^7.1.0",
