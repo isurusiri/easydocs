@@ -16,3 +16,5 @@ var comments = soruce.pipe(rxOperators.map(comment => {
 
 const subscription = comments.subscribe(val => console.log(val));
 
+var methodSignature = fileReader.readFlowSyncByLine(92);
+console.log(methodSignature);

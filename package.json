@@ -22,6 +22,7 @@
   "dependencies": {
     "esprima": "^4.0.1",
     "flow-parser": "^0.81.0",
+    "readline-specific": "^1.0.4",
     "rxjs": "^6.3.3"
   },
   "devDependencies": {
