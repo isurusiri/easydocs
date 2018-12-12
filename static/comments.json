@@ -1,0 +1,327 @@
+{
+  "comments": [
+    {
+      "type": "Line",
+      "loc": {
+        "source": null,
+        "start": {
+          "line": 1,
+          "column": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 8
+        }
+      },
+      "range": [
+        0,
+        8
+      ],
+      "value": " @flow"
+    },
+    {
+      "type": "Line",
+      "loc": {
+        "source": null,
+        "start": {
+          "line": 9,
+          "column": 0
+        },
+        "end": {
+          "line": 9,
+          "column": 10
+        }
+      },
+      "range": [
+        214,
+        224
+      ],
+      "value": " TODO: ?"
+    },
+    {
+      "type": "Line",
+      "loc": {
+        "source": null,
+        "start": {
+          "line": 10,
+          "column": 35
+        },
+        "end": {
+          "line": 10,
+          "column": 108
+        }
+      },
+      "range": [
+        261,
+        334
+      ],
+      "value": " import from decorarators break the app on web production WTF ¯\\_(ツ)_/¯"
+    },
+    {
+      "type": "Line",
+      "loc": {
+        "source": null,
+        "start": {
+          "line": 48,
+          "column": 2
+        },
+        "end": {
+          "line": 48,
+          "column": 61
+        }
+      },
+      "range": [
+        1570,
+        1629
+      ],
+      "value": " Note: Don't use this directly, use Collection.query(...)"
+    },
+    {
+      "type": "Line",
+      "loc": {
+        "source": null,
+        "start": {
+          "line": 55,
+          "column": 2
+        },
+        "end": {
+          "line": 55,
+          "column": 66
+        }
+      },
+      "range": [
+        1882,
+        1946
+      ],
+      "value": " Creates a new Query that extends the conditions of this query"
+    },
+    {
+      "type": "Line",
+      "loc": {
+        "source": null,
+        "start": {
+          "line": 69,
+          "column": 2
+        },
+        "end": {
+          "line": 69,
+          "column": 62
+        }
+      },
+      "range": [
+        2244,
+        2304
+      ],
+      "value": " Queries database and returns an array of matching records"
+    },
+    {
+      "type": "Line",
+      "loc": {
+        "source": null,
+        "start": {
+          "line": 74,
+          "column": 2
+        },
+        "end": {
+          "line": 74,
+          "column": 85
+        }
+      },
+      "range": [
+        2392,
+        2475
+      ],
+      "value": " Emits an array of matching records, then emits a new array every time it changes"
+    },
+    {
+      "type": "Line",
+      "loc": {
+        "source": null,
+        "start": {
+          "line": 79,
+          "column": 2
+        },
+        "end": {
+          "line": 79,
+          "column": 72
+        }
+      },
+      "range": [
+        2558,
+        2628
+      ],
+      "value": " Same as `observe()` but also emits the list when any of the records"
+    },
+    {
+      "type": "Line",
+      "loc": {
+        "source": null,
+        "start": {
+          "line": 80,
+          "column": 2
+        },
+        "end": {
+          "line": 80,
+          "column": 46
+        }
+      },
+      "range": [
+        2632,
+        2676
+      ],
+      "value": " on the list has one of `rawFields` chaged"
+    },
+    {
+      "type": "Line",
+      "loc": {
+        "source": null,
+        "start": {
+          "line": 85,
+          "column": 2
+        },
+        "end": {
+          "line": 85,
+          "column": 43
+        }
+      },
+      "range": [
+        2811,
+        2852
+      ],
+      "value": " Returns the number of matching records"
+    },
+    {
+      "type": "Line",
+      "loc": {
+        "source": null,
+        "start": {
+          "line": 90,
+          "column": 2
+        },
+        "end": {
+          "line": 90,
+          "column": 87
+        }
+      },
+      "range": [
+        2943,
+        3028
+      ],
+      "value": " Emits the number of matching records, then emits a new count every time it changes"
+    },
+    {
+      "type": "Line",
+      "loc": {
+        "source": null,
+        "start": {
+          "line": 91,
+          "column": 2
+        },
+        "end": {
+          "line": 91,
+          "column": 51
+        }
+      },
+      "range": [
+        3032,
+        3081
+      ],
+      "value": " Note: By default, the Observable is throttled!"
+    },
+    {
+      "type": "Line",
+      "loc": {
+        "source": null,
+        "start": {
+          "line": 96,
+          "column": 2
+        },
+        "end": {
+          "line": 96,
+          "column": 52
+        }
+      },
+      "range": [
+        3252,
+        3302
+      ],
+      "value": " Marks as deleted all records matching the query"
+    },
+    {
+      "type": "Line",
+      "loc": {
+        "source": null,
+        "start": {
+          "line": 102,
+          "column": 2
+        },
+        "end": {
+          "line": 102,
+          "column": 44
+        }
+      },
+      "range": [
+        3464,
+        3506
+      ],
+      "value": " Destroys all records matching the query"
+    },
+    {
+      "type": "Line",
+      "loc": {
+        "source": null,
+        "start": {
+          "line": 108,
+          "column": 2
+        },
+        "end": {
+          "line": 108,
+          "column": 22
+        }
+      },
+      "range": [
+        3678,
+        3698
+      ],
+      "value": " MARK: - Internals"
+    },
+    {
+      "type": "Line",
+      "loc": {
+        "source": null,
+        "start": {
+          "line": 130,
+          "column": 2
+        },
+        "end": {
+          "line": 130,
+          "column": 58
+        }
+      },
+      "range": [
+        4195,
+        4251
+      ],
+      "value": " `true` if query contains conditions on foreign tables"
+    },
+    {
+      "type": "Line",
+      "loc": {
+        "source": null,
+        "start": {
+          "line": 135,
+          "column": 2
+        },
+        "end": {
+          "line": 135,
+          "column": 65
+        }
+      },
+      "range": [
+        4334,
+        4397
+      ],
+      "value": " Serialized version of Query (e.g. for sending to web worker)"
+    }
+  ]
+}
