@@ -7,6 +7,6 @@
 This is going to be a Webpack plugin that supports to extract code comments and generat developer documentation from that.  
 
 Language supprt,  
-- [] JavaScript
-- [] TypeScript
-- [] Flow
+- [ ] JavaScript
+- [ ] TypeScript
+- [ ] Flow
